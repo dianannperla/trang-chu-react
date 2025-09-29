@@ -14,7 +14,7 @@
     "url": "https://github.com/tên-tài-khoản/trang-chu-react.git"
   },
   "keywords": ["react", "landing-page", "frontend"],
-  "author": "Updated Author Name",
+  "author": "New Author Name",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.1",
